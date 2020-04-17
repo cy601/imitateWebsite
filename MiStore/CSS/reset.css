@@ -1,0 +1,37 @@
+/* 消除原有样式 */
+
+body,
+p,
+ul,
+ol,
+dl,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+dl,
+dt,
+dd,
+dt {
+    margin: 0;
+    padding: 0;
+}
+
+
+li,
+ol {
+    list-style-type: none;
+}
+
+input {
+    border: none;
+    outline: none;
+}
+
+
+a {
+    text-decoration: none;
+    
+}
